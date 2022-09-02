@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luca
+- 👋 Hi, I’m Luca,a ITC student from italy.
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Python,Javascript
 - 📫 How to reach me: lucadedo99@icloud.com
