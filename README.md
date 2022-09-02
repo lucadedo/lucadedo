@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lucadedo
+- 👋 Hi, I’m Luca
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python,Javascript
 - 📫 How to reach me: lucadedo99@icloud.com
 
 <!---
