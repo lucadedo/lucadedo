@@ -29,15 +29,17 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
 
-  <img title="Problem Solving" height="50" src="images/problemSolving.png">
-  <img title="Python" height="50" src="images/python-original.svg">
+  
+ 
   <img title="HTML5" height="50" src="images/html5.svg">
-  <img title="CSS" height="50" src="images/css.svg">
+  <img title="CSS" height="55" src="images/css.svg">
   <img title="Javascript" height="50" src="images/javascript.svg">
+  <img title="Python" height="50" src="images/python-original.svg">
   <img title="JSON" height="50" src="images/json.svg">
   <img title="Git" height="50" src="images/git-original.svg">
   <img title="GitHub" height="50" src="images/github.svg">
   <img title="Visual Studio Code" height="50" src="images/vscode.png">
+  <img title="Problem Solving" height="50" src="images/problemSolving.png">
 
 </p>
 <hr>
