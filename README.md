@@ -28,18 +28,17 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
-<!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <img title="Problem Solving" height="25" src="images/problemSolving.png">
-<!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-  <img title="Python" height="25" src="images/python-original.svg">
-  <img title="HTML5" height="25" src="images/html5.svg">
-  <img title="CSS" height="25" src="images/css.svg">
-  <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="JSON" height="25" src="images/json.svg">
-  <img title="Git" height="25" src="images/git-original.svg">
-  <img title="GitHub" height="25" src="images/github.svg">
-  <img title="Visual Studio Code" height="25" src="images/vscode.png">
-<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
+
+  <img title="Problem Solving" height="50" src="images/problemSolving.png">
+  <img title="Python" height="50" src="images/python-original.svg">
+  <img title="HTML5" height="50" src="images/html5.svg">
+  <img title="CSS" height="50" src="images/css.svg">
+  <img title="Javascript" height="50" src="images/javascript.svg">
+  <img title="JSON" height="50" src="images/json.svg">
+  <img title="Git" height="50" src="images/git-original.svg">
+  <img title="GitHub" height="50" src="images/github.svg">
+  <img title="Visual Studio Code" height="50" src="images/vscode.png">
+
 </p>
 <hr>
 
