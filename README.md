@@ -34,8 +34,8 @@
 <!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
   <img title="Python" height="25" src="images/python-original.svg">
   <img title="Numpy" height="25" src="images/numpy.svg">
-  <img title="Pandas" height="25" src="images/pandas.svg">
-  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
+ 
+  
   <img title="Seaborn" height="25" src="images/seaborn.svg">
   <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
   <img title="HTML5" height="25" src="images/html5.svg">
