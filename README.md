@@ -13,7 +13,7 @@
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
   <h3>👋 Hi , I’m Luca </h3>
-  I am a graduated ITC student from italy.👀  with a passion for programming and a focus on front-end engineering. Proficient in HTML, CSS, JavaScript, jQuery, and a touch of Python, It's amazing how a well-design website could change the user experience and attract people to it! I love that!  
+  I am a ITC weird guy from italy.👀  with a passion for programming and a focus on front-end engineering. In love with all front-ended skills,like HTML, CSS, JavaScript, jQuery, and a touch of Python too, It's amazing how a well-design website could change the user experience and attract people to it! I love that!  
   <br>
   Let's code the ideas to the future!
   <br>
