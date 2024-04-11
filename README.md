@@ -13,7 +13,9 @@
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
   <h3>👋 Hi , I’m Luca </h3>
-  I'm from italy.👀  With passion for programming on front-end web development. Love the front-ended skills like HTML, CSS, JavaScript, jQuery. It's amazing how a web development world works! I love that!  
+  I'm from italy.👀  With passion for programming on front-end web development. Loves front-ended skills like HTML, CSS, JavaScript. 
+  <br>
+  Currently working on React & nextJS (really cool stuff)
   <br>
   Let's code the ideas to the future!
   <br>
