@@ -31,7 +31,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
 
-    
+
   <img title="NextJS" height="50" src="images/nextjs-icon.svg">
    <br>
     <img title="CSS" height="55" src="images/css.svg">
@@ -45,7 +45,7 @@
     <img title="Git" height="50" src="images/git-original.svg">
     <img title="GitHub" height="50" src="images/github.svg">
     <img title="Problem Solving" height="50" src="images/problemSolving.png">
-  
+
 </p>
 <hr>
 
