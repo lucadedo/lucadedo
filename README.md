@@ -31,19 +31,21 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
 
-  
- 
-  <img title="HTML5" height="50" src="images/html5.svg">
-  <img title="CSS" height="55" src="images/css.svg">
-  <img title="Javascript" height="50" src="images/javascript.svg">
-  <img title="Python" height="50" src="images/python-original.svg">
+    
   <img title="NextJS" height="50" src="images/nextjs-icon.svg">
-  <img title="React" height="50" src="images/react.png">
-  <img title="Git" height="50" src="images/git-original.svg">
-  <img title="GitHub" height="50" src="images/github.svg">
-  <img title="Visual Studio Code" height="50" src="images/vscode.png">
-  <img title="Problem Solving" height="50" src="images/problemSolving.png">
-
+   <br>
+    <img title="CSS" height="55" src="images/css.svg">
+   <img title="HTML5" height="50" src="images/html5.svg">
+     <br>
+    <img title="Python" height="50" src="images/python-original.svg">
+   <img title="Javascript" height="45" src="images/javascript.svg">
+    <img title="React" height="45" src="images/react.png">
+     <br>
+       <img title="Visual Studio Code" height="50" src="images/vscode.png">
+    <img title="Git" height="50" src="images/git-original.svg">
+    <img title="GitHub" height="50" src="images/github.svg">
+    <img title="Problem Solving" height="50" src="images/problemSolving.png">
+  
 </p>
 <hr>
 
