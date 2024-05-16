@@ -38,6 +38,7 @@
   <img title="Javascript" height="50" src="images/javascript.svg">
   <img title="Python" height="50" src="images/python-original.svg">
   <img title="NextJS" height="50" src="images/nextjs-icon.svg">
+  <img title="React" height="50" src="images/react.png">
   <img title="Git" height="50" src="images/git-original.svg">
   <img title="GitHub" height="50" src="images/github.svg">
   <img title="Visual Studio Code" height="50" src="images/vscode.png">
