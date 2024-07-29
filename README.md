@@ -15,7 +15,7 @@
   <h3>👋 Hi , I’m Luca </h3>
   I'm from italy.👀  With passion for programming on front-end web development. 
   <br>
-  Currently working on React & nextJS (really cool stuff)
+  Currently working with React & nextJS (really cool stuff)
   <br>
   Let's code the ideas to the future!
   <br>
